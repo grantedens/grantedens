@@ -1,5 +1,5 @@
 - 👋 My name is Grant Edens. I am graduating from the University of Arkansas (expected May 2023) with a degree in Information Systems (Blockchain Enterprise Concentration)
-- 👀 I’m interested in blockchain technology, software developement, and problem-solving. 
+- 👀 I’m interested in blockchain technology, software development, and problem solving. 
 - 🌱 I’m currently learning Python, Solidity, C#, and SQL. 
 - 💞️ I’m looking to collaborate to make better business decisions. 
 - 📫 Email: Grant.edens2000@gmail.com, Phone: 979-402-2396
