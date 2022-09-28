@@ -1,10 +1,5 @@
-- 👋 My name is Grant Edens
-- 👀 I’m interested in data analytics and software developement 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-grantedens/grantedens is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 My name is Grant Edens. I am graduating from the University of Arkansas (expected May 2023) with a degree in Information Systems (Blockchain Enterprise Concentration)
+- 👀 I’m interested in blockchain technology, software developement, and problem-solving. 
+- 🌱 I’m currently learning Python, Solidity, C#, and SQL. 
+- 💞️ I’m looking to collaborate to make better business decisions. 
+- 📫 Email: Grant.edens2000@gmail.com, Phone: 979-402-2396
