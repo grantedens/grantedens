@@ -1,0 +1,1 @@
+This is a project I did with two peers for my Database Management Class. We created a front end system for a made up juice company in VS and added code to connect to a DBMS. It was a great learning experience and it was cool to make something fully functional.
