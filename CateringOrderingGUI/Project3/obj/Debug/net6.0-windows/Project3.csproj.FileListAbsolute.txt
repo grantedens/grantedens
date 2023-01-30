@@ -1,0 +1,34 @@
+S:\gaedens\AppDev\Project3\Project3\bin\Debug\net6.0-windows\Project3.exe
+S:\gaedens\AppDev\Project3\Project3\bin\Debug\net6.0-windows\Project3.deps.json
+S:\gaedens\AppDev\Project3\Project3\bin\Debug\net6.0-windows\Project3.runtimeconfig.json
+S:\gaedens\AppDev\Project3\Project3\bin\Debug\net6.0-windows\Project3.dll
+S:\gaedens\AppDev\Project3\Project3\bin\Debug\net6.0-windows\Project3.pdb
+S:\gaedens\AppDev\Project3\Project3\obj\Debug\net6.0-windows\Project3.csproj.AssemblyReference.cache
+S:\gaedens\AppDev\Project3\Project3\obj\Debug\net6.0-windows\Project3.Form1.resources
+S:\gaedens\AppDev\Project3\Project3\obj\Debug\net6.0-windows\Project3.csproj.GenerateResource.cache
+S:\gaedens\AppDev\Project3\Project3\obj\Debug\net6.0-windows\Project3.GeneratedMSBuildEditorConfig.editorconfig
+S:\gaedens\AppDev\Project3\Project3\obj\Debug\net6.0-windows\Project3.AssemblyInfoInputs.cache
+S:\gaedens\AppDev\Project3\Project3\obj\Debug\net6.0-windows\Project3.AssemblyInfo.cs
+S:\gaedens\AppDev\Project3\Project3\obj\Debug\net6.0-windows\Project3.csproj.CoreCompileInputs.cache
+S:\gaedens\AppDev\Project3\Project3\obj\Debug\net6.0-windows\Project3.dll
+S:\gaedens\AppDev\Project3\Project3\obj\Debug\net6.0-windows\refint\Project3.dll
+S:\gaedens\AppDev\Project3\Project3\obj\Debug\net6.0-windows\Project3.pdb
+S:\gaedens\AppDev\Project3\Project3\obj\Debug\net6.0-windows\Project3.genruntimeconfig.cache
+S:\gaedens\AppDev\Project3\Project3\obj\Debug\net6.0-windows\ref\Project3.dll
+S:\gaedens\AppDev\Project3 - Copy\Project3\bin\Debug\net6.0-windows\Project3.exe
+S:\gaedens\AppDev\Project3 - Copy\Project3\bin\Debug\net6.0-windows\Project3.deps.json
+S:\gaedens\AppDev\Project3 - Copy\Project3\bin\Debug\net6.0-windows\Project3.runtimeconfig.json
+S:\gaedens\AppDev\Project3 - Copy\Project3\bin\Debug\net6.0-windows\Project3.dll
+S:\gaedens\AppDev\Project3 - Copy\Project3\bin\Debug\net6.0-windows\Project3.pdb
+S:\gaedens\AppDev\Project3 - Copy\Project3\obj\Debug\net6.0-windows\Project3.csproj.AssemblyReference.cache
+S:\gaedens\AppDev\Project3 - Copy\Project3\obj\Debug\net6.0-windows\Project3.Form1.resources
+S:\gaedens\AppDev\Project3 - Copy\Project3\obj\Debug\net6.0-windows\Project3.csproj.GenerateResource.cache
+S:\gaedens\AppDev\Project3 - Copy\Project3\obj\Debug\net6.0-windows\Project3.GeneratedMSBuildEditorConfig.editorconfig
+S:\gaedens\AppDev\Project3 - Copy\Project3\obj\Debug\net6.0-windows\Project3.AssemblyInfoInputs.cache
+S:\gaedens\AppDev\Project3 - Copy\Project3\obj\Debug\net6.0-windows\Project3.AssemblyInfo.cs
+S:\gaedens\AppDev\Project3 - Copy\Project3\obj\Debug\net6.0-windows\Project3.csproj.CoreCompileInputs.cache
+S:\gaedens\AppDev\Project3 - Copy\Project3\obj\Debug\net6.0-windows\Project3.dll
+S:\gaedens\AppDev\Project3 - Copy\Project3\obj\Debug\net6.0-windows\refint\Project3.dll
+S:\gaedens\AppDev\Project3 - Copy\Project3\obj\Debug\net6.0-windows\Project3.pdb
+S:\gaedens\AppDev\Project3 - Copy\Project3\obj\Debug\net6.0-windows\Project3.genruntimeconfig.cache
+S:\gaedens\AppDev\Project3 - Copy\Project3\obj\Debug\net6.0-windows\ref\Project3.dll
