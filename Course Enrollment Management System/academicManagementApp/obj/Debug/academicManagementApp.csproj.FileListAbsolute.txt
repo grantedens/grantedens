@@ -1,0 +1,12 @@
+S:\gaedens\projdevassignment1\academicManagementApp\academicManagementApp\obj\Debug\academicManagementApp.csproj.AssemblyReference.cache
+S:\gaedens\projdevassignment1\academicManagementApp\academicManagementApp\obj\Debug\academicManagementApp.csproj.SuggestedBindingRedirects.cache
+S:\gaedens\projdevassignment1\academicManagementApp\academicManagementApp\obj\Debug\academicManagementApp.Form1.resources
+S:\gaedens\projdevassignment1\academicManagementApp\academicManagementApp\obj\Debug\academicManagementApp.Properties.Resources.resources
+S:\gaedens\projdevassignment1\academicManagementApp\academicManagementApp\obj\Debug\academicManagementApp.csproj.GenerateResource.cache
+S:\gaedens\projdevassignment1\academicManagementApp\academicManagementApp\obj\Debug\academicManagementApp.csproj.CoreCompileInputs.cache
+S:\gaedens\projdevassignment1\academicManagementApp\academicManagementApp\bin\Debug\academicManagementApp.exe.config
+S:\gaedens\projdevassignment1\academicManagementApp\academicManagementApp\bin\Debug\academicManagementApp.exe
+S:\gaedens\projdevassignment1\academicManagementApp\academicManagementApp\bin\Debug\academicManagementApp.pdb
+S:\gaedens\projdevassignment1\academicManagementApp\academicManagementApp\obj\Debug\academicManagementApp.exe
+S:\gaedens\projdevassignment1\academicManagementApp\academicManagementApp\obj\Debug\academicManagementApp.pdb
+S:\gaedens\projdevassignment1\academicManagementApp\academicManagementApp\obj\Debug\academicManagementApp.Form2.resources
