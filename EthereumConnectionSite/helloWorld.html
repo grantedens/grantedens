@@ -1,0 +1,73 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Hello World!</title>
+    <script type="text/javascript" src="https://unpkg.com/web3@latest/dist/web3.min.js"></script>
+    <script src="info.js"></script>
+</head>
+<body>
+    <h1>Hello World!</h1>
+</body>
+<script>
+    this.web3 = new Web3(
+        (window.web3 && window.web3.currentProvider) ||
+        new Web3.providers.HttpProvider(HelloWorldContract.endpoint)); // Use HelloWorldContract.endpoint instead of this.Contract.endpoint
+    window.ethereum.enable();
+
+    console.log("enabled ethereum");
+    console.log("web3::::");
+    console.log(this.web3);
+
+    console.log(abiInfo);
+    console.log(contractAddress);
+
+    web3.eth.getAccounts().then(console.log);
+    web3.eth.getAccounts().then(function(acc){ theAccounts = acc })
+
+    var HelloWorldContract = new web3.eth.Contract(abiInfo, contractAddress);
+    HelloWorldContract.defaultChain = 'polygon mumbai';
+
+    async function getMessage() {
+  try {
+    var myMessage = await HelloWorldContract.methods.theMessage().call();
+    console.log(myMessage);
+  } catch (error) {
+    console.error(error);
+  }
+}
+
+
+    async function setMessage (newMessage) {
+        await HelloWorldContract.methods.updateMessage(newMessage).send({from: theAccounts[0]});
+        console.log("Sent: ", newMessage);
+    }
+</script>
+
+<!--
+    <label for="message">Message:</label>
+    <input type="text" id="message" name="message"><br><br>
+    <button onclick="getMessage()">Get Message</button>
+    <button onclick="setMessage()">Set Message</button>
+    <br><br>
+    <script src="https://cdn.jsdelivr.net/npm/web3@1.0.0/dist/web3.min.js"></script>
+    <script src="helloWorldABI.json"></script>
+    <script>
+        const contractABI = window.contractABI; // Load ABI from external file
+        const contractAddress = ""; // Load contract address from external file
+
+        const web3 = new Web3(window.ethereum);
+        const contract = new web3.eth.Contract(contractABI, contractAddress);
+        
+        async function getMessage() {
+            const message = await contract.methods.getMessage().call();
+            document.getElementById("message").value = message;
+        }
+        
+        async function setMessage() {
+            const newMessage = document.getElementById("message").value;
+            await contract.methods.setMessage(newMessage).send({ from: window.ethereum.selectedAddress });
+        }
+
+    <script src="contractAddress.txt"></script>
+    -->
+</html>
