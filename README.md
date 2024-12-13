@@ -1,4 +1,4 @@
-- 👋 My name is Grant Edens. I am graduating from the University of Arkansas (expected May 2023) with a degree in Information Systems (Blockchain Enterprise Concentration)
-- 👀 I’m interested in blockchain use-cases, data scraping, and problem solving. 
-- 🌱 I’m currently learning and machine learning. 
-- 📫 Email: Grant.edens2000@gmail.com, Phone: 979-402-2396, LinkedIn: www.linkedin.com/in/gaed
+- 👋 My name is Grant Edens. I have a Business Information Systems degree from University of Arkansas.
+- 👀 I’m interested in service to those in need, how technology helps productivity, and content creation. 
+- 🌱 I’m working on publishing a novel and getting my RBT certification (kind of random, I know).
+- 📫 Reach out if you are interested in connecting! My email is Grant.edens2000@gmail.com and my LinkedIn is https://www.linkedin.com/in/grantedens
